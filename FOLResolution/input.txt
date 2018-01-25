@@ -1,0 +1,5 @@
+1
+C(John)
+2
+A(Bob,x,x)
+~A(x,Alice,y)
